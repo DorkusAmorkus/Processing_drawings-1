@@ -10,8 +10,14 @@ Project/assignment name: Java Sketch
 
 Description: A sketch
 
-Credits for code referenced: https://processing.org/tutorials/color/ 
+Credits for code referenced: 
+https://processing.org/tutorials/color/ 
 https://processing.org/tutorials/pshape/ 
+
+uses:
+pshape
+color
+rectangle
 
 */
 
